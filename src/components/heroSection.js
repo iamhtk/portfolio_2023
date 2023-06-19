@@ -2,7 +2,7 @@ import React from "react";
 
 import styles from "@/styles/HeroSection.module.scss";
 import { Link } from "react-scroll";
-
+//lol
 const HeroSection = () => {
   return (
     <div className={styles.heroSection} id="hero-section">
