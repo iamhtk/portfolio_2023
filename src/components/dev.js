@@ -1,11 +1,11 @@
 import React from "react";
 
 import styles from "@/styles/Dev.module.scss";
-import { DevelopmentProjects } from "@/Shared/Data";
+import { uiUxProjects } from "@/Shared/Data";
 import Image from "next/image";
 
 const DevProjectCard = ({ development }) => {
-  const { title, desc, link, stack, image } = development;
+  const { title, desc, link, stack, tools, image } = development;
   return (
     <div
       className={styles.devProjectCard}
@@ -24,6 +24,7 @@ const DevProjectCard = ({ development }) => {
             <p>{desc}</p>
           </div>
           <div className={styles.devProjectCardStack}>{stack}</div>
+          <div className={styles.devProjectCardTools}>{tools}</div>
         </div>
         <div className={styles.devProjectCardButton}>
           <a href={link} target="_blank" rel="noreferrer">
@@ -40,7 +41,7 @@ const DevProjects = () => {
     <div className={styles.devProjectContainer} id="dev-project">
       <h1 data-aos="fade-up">UI/UX Designs</h1>
       <div className={styles.devProjectGrid}>
-        {DevelopmentProjects.map((development) => {
+        {uiUxProjects.map((development) => {
           return (
             <DevProjectCard key={development.id} development={development} />
           );

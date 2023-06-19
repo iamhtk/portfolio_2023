@@ -1,7 +1,7 @@
 import Head from "next/head";
 
 import HeroSection from "@/components/heroSection";
-import UIUXSection from "@/components/uiux";
+import Gfx from "@/components/uiux";
 import ContactSection from "@/components/contact";
 import { useEffect } from "react";
 import { useRouter } from "next/router";
@@ -9,8 +9,8 @@ import { scroller } from "react-scroll";
 
 import DevProjects from "@/components/dev";
 import Blog from "@/components/blog";
-import Gfx from "@/components/gfx";
-
+import UXResearch from "../components/uxResearch"
+  
 export default function Home() {
   const { asPath } = useRouter();
   useEffect(() => {
@@ -27,7 +27,8 @@ export default function Home() {
       <main>
         <HeroSection />
         <DevProjects />
-        <UIUXSection />
+        <UXResearch />
+        <Gfx />
         {/* <Gfx /> */}
 
         {/* <Blog /> */}

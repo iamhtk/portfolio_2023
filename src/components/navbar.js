@@ -3,6 +3,7 @@ import styles from "@/styles/Navbar.module.scss";
 import Link from "next/link";
 import { Link as LinkS } from "react-scroll";
 import TDLogo from "../../public/images/Logo.png";
+import HSLogo from "../../public/images/new_images/logo.png";
 import TDMobile from "../../public/images/MobileLogo.png";
 import Image from "next/image";
 import { Router, useRouter } from "next/router";
@@ -14,10 +15,10 @@ const Navbar = () => {
       <div className={styles.navbarContainer}>
         <div className={styles.navbarLogo}>
           <Link className={styles.navbarLogoLink} href="/">
-            <Image src={TDLogo} alt="Logo" height={64} />
+            <Image src={HSLogo} alt="Logo" height={64} />
 
             <div className={styles.mobileLogo}>
-              <Image src={TDMobile} alt="Logo" height={48} />
+              <Image src={HSLogo} alt="Logo" height={48} />
             </div>
           </Link>
         </div>
