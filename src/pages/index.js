@@ -10,7 +10,10 @@ import { scroller } from "react-scroll";
 import DevProjects from "@/components/dev";
 import Blog from "@/components/blog";
 import UXResearch from "../components/uxResearch"
-  
+ 
+
+//CI/CD setup
+
 export default function Home() {
   const { asPath } = useRouter();
   useEffect(() => {
