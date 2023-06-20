@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Head from "next/head";
 import styles from "@/styles/About.module.scss";
-import Me from "../../public/images/Tomcy.jpg";
+import Me from "../../public/images/new_images/mychicago.jpeg";
 
 export default function About() {
   return (
@@ -13,24 +13,17 @@ export default function About() {
             <div className={styles.aboutContainer}>
               <div className={styles.aboutInfo}>
                 <p data-aos="fade-up" data-aos-delay="200">
-                  I&#39;m a self-taught UI/UX and Graphic Designer who is now
-                  learning React JS and React Native. I&#39;m pursuing my
-                  Bachelor&#39;s Degree in Computer Engineering from Pillai
-                  College of Engineering, graduation in 2023.
+                Hi! I&#39;m Hrithik Sanyal. I&#39;m a first-year graduate student at the 
+                School of Information, at the University of Michigan studying UX Design & Research and Human-Computer Interaction. 
                 </p>
                 <p data-aos="fade-up" data-aos-delay="300">
-                  I have more than a year of experience in User Experience
-                  designing. I&#39;ve worked as a freelance designer and helped
-                  many clients, colleagues get their ideas designed. I worked as
-                  a UI/UX designer for the official website of our collegiate
-                  festival Alegria.
+                I aspire to craft meaningful interactions between people and technology and solve problems in creative, empathetic ways. I enjoy creating digital illustrations/designs and music in my free time.
                 </p>
                 <p data-aos="fade-up" data-aos-delay="400">
-                  I have two years of graphic design expertise. As part of my
-                  career, I have worked on a variety of graphic design projects.
-                  For the year 2022, I was the Graphic Head of our collegiate
-                  festival Alegria, and also the Graphic Head of Pillai College
-                  of Engineering&#39;s Student Council.
+                I come from a multidisciplinary background, with experience in programming and designing.
+                </p>
+                <p data-aos="fade-up" data-aos-delay="500">
+                Previously, I was appointed as a Graduate Student Instructor for SI 658: Information Architecture last Winter 2023 semester.
                 </p>
               </div>
 
@@ -54,29 +47,50 @@ export default function About() {
                   data-aos="fade-up"
                   data-aos-delay="200"
                 >
-                  <h2>Expertise</h2>
-                  <p>UI UX Design</p>
-                  <p>Graphic Design</p>
-                  <p>Development</p>
+                  <h2>UX Tools</h2>
+                  <p>Adobe Creative Suite</p>
+                  <p>Miro</p>
+                  <p>Wireframe.cc</p>
+                  <p>Illustrator</p>
+                  <p>Lightroom</p>
+                  <p>Adobe XD</p>
+                  <p>Photoshop</p>
+                  <p>Sketch</p>
+                  <p>InVisio</p>
+                  <p>Principle</p>
+                  <p>FigJam</p>
+                  <p>Figma</p>
+                  <p>Adobe After Effects</p>
+                  <p>Premier Pro</p>
+                  <p>Apple Motion</p>
+                  <p>Final Cut Pro</p>
+                  <p>Axure</p>
                 </div>
+
                 <div
                   className={styles.skillCard}
                   style={{ backgroundColor: "#b44bff" }}
                   data-aos="fade-up"
                   data-aos-delay="400"
                 >
-                  <h2>Tech Stack</h2>
-                  <p>React Js</p>
-                  <p>Javascript</p>
-                  <p>React Native</p>
-                  <p>PHP</p>
-                  <p>CSS</p>
-                  <p>SASS</p>
-                  <p>Styled Components</p>
-                  <p>Redux</p>
-                  <p>MySql</p>
-                  <p>Firebase</p>
+                  <h2>UX Research methods</h2>
+                  <p>Infinity Walls</p>
+                  <p>Affinity Wall Construction</p>
+                  <p>Brainstorming Solutions</p>
+                  <p>Background Research</p>
+                  <p>QOC</p>
+                  <p>Story Mapping</p>
+                  <p>Low-Fi Prototyping</p>
+                  <p>High-Fi Prototyping</p>
+                  <p>Wireframes</p>
+                  <p>Personas</p>
+                  <p>User research methodologies</p>
+                  <p>Usability testing</p>
+                  <p>Qualitative testing</p>
+                  <p>Quantitative testing</p>
+                  <p>Discoverability testing</p>
                 </div>
+                
                 <div
                   className={styles.skillCard}
                   style={{ backgroundColor: "#911ae5" }}
@@ -84,9 +98,14 @@ export default function About() {
                   data-aos-delay="600"
                 >
                   <h2>Design Tools</h2>
-                  <p>Figma</p>
-                  <p>Photoshop</p>
-                  <p>Illustrator</p>
+                  <p>C/C++</p>
+                  <p>Python</p>
+                  <p>HTML</p>
+                  <p>CSS</p>
+                  <p>Oracle</p>
+                  <p>MySQL</p>
+                  <p>JavaScript</p>
+                  <p>XCode</p>
                 </div>
               </div>
             </div>

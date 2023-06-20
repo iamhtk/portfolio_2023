@@ -3,7 +3,7 @@ export const uxResearchProjects = [
     id: 1,
     title: "Bound International",
     // projectName: "Bound International",
-    desc: "Designed an application where users can securely store Passwords, Credit Cards, and Secure Notes.",
+    desc: "",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
     link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
@@ -14,7 +14,7 @@ export const uxResearchProjects = [
     title: "NCID: Spark Publications",
     // projectName: "NCID: Spark Publications",
     desc:
-      "An app designed to bring the future at your fingertips by providing easy access to all things EV for you and creating a hassle-free relationship amongst the buyer and the seller.",
+      "",
     projectLink: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
@@ -26,7 +26,7 @@ export const uiUxProjects = [
   {
     id: 1,
     title: "Queen of Spades",
-    desc: "A research project for a restaurant",
+    desc: "",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
     link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
@@ -36,7 +36,7 @@ export const uiUxProjects = [
   {
     id: 2,
     title: "Raseet Health",
-    desc: " A system which predicts the disease based on the symptoms",
+    desc: " ",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
     link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
@@ -46,7 +46,7 @@ export const uiUxProjects = [
   {
     id: 3,
     title: "ho•bo dB",
-    desc: "A simple random quote generator",
+    desc: "",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
     link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
@@ -56,7 +56,7 @@ export const uiUxProjects = [
   {
     id: 4,
     title: "homebrew",
-    desc: "A software application that is designed to help programmers to keep track of reported software bugs in their work",
+    desc: "",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
     link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
@@ -68,24 +68,24 @@ export const uiUxProjects = [
 export const graphicDesigns = [
   {
     id: 1,
-    title: "Bound International",
+    title: "SI 520: Graphic Designs",
     // projectName: "Bound International",
     desc: "Designed an application where users can securely store Passwords, Credit Cards, and Secure Notes.",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
     link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
-    image: require("../../public/images/new_images/bound.png"),
+    image: require("../../public/images/new_images/music.png"),
   },
   {
     id: 2,
-    title: "NCID: Spark Publications",
+    title: "SI 539: Web Designs",
     // projectName: "NCID: Spark Publications",
     desc:
       "An app designed to bring the future at your fingertips by providing easy access to all things EV for you and creating a hassle-free relationship amongst the buyer and the seller.",
-    projectLink: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
-    image: require("../../public/images/new_images/spark.png"),
+    link: "https://iamhtk.github.io/SI539_FinalProject/",
+    image: require("../../public/images/new_images/edm.png"),
   }
 ];
 

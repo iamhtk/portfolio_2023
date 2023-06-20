@@ -2,7 +2,7 @@ import React from "react";
 
 import styles from "@/styles/HeroSection.module.scss";
 import { Link } from "react-scroll";
-//lol
+
 const HeroSection = () => {
   return (
     <div className={styles.heroSection} id="hero-section">
@@ -20,8 +20,12 @@ const HeroSection = () => {
               data-aos-anchor=".heroIntro"
             >
               I&#39;m a Human-Computer Interaction & UX Student at University of Michigan-Ann Arbor.
-              I have experience doing user research, creating app design, web design, and visual design.
             </p>
+            <p>
+            I have experience doing user experience design & research, creating app design, and visual design.
+            I am currently looking for an internship or job for the summer of 2023 to further build on my Product/UX design & research, interaction design, and product management skills.
+            </p>
+            
           </div>
         </div>
         <div

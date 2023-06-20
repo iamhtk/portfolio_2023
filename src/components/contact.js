@@ -37,12 +37,10 @@ const ContactSection = () => {
     <Element name="contact">
       <div className={styles.contactContainer}>
         <div className={styles.contactIntro}>
-          <h1 data-aos="fade-up">sold yet?</h1>
+          <h1 data-aos="fade-up">Thank you!</h1>
           <p data-aos="fade-up" data-aos-delay="200">
-            Thanks for stopping by, I’m currently looking to join a new team of
-            creative designers and developers. If you think we might be a good
-            fit for one another, please do connect with me online
-          </p>
+Thanks for stopping by. Looking forward to connecting with you!</p>
+<p>iamhtk@umich.edu</p>
         </div>
         <div className={styles.contactLinks} id="contact">
           <ContactLink
