@@ -63,6 +63,18 @@ export const uiUxProjects = [
     image: require("../../public/images/new_images/hbrew.png"),
     color: "#CCF3EE",
   },
+
+  {
+    id: 5,
+    title: "ClayClock",
+    desc: "",
+    stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
+    tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
+    link: "https://www.behance.net/gallery/173462201/Clay-Clock",
+    image: require("../../public/images/new_images/cc.png"),
+    color: "#CCF3EE",
+  },
+
 ];
 
 export const graphicDesigns = [
