@@ -7,7 +7,7 @@ export const uxResearchProjects = [
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
     link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
-    image: require("../../public/images/new_images/bound.png"),
+    image: require("../../public/images/new_images/bound2.png"),
   },
   {
     id: 2,

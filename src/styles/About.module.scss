@@ -23,9 +23,9 @@
 
         .aboutImage {
           img {
-            object-fit: contain;
-            max-width: 100%;
-            height: 80%;
+            object-fit:cover;
+            width: 100%;
+            height: 100%;
           }
         }
       }
@@ -42,7 +42,7 @@
         .skillCards {
           display: flex;
           flex-direction: column;
-          justify-content: center;
+          justify-content:space-around;
           gap: 2rem;
 
           .skillCard {
@@ -102,7 +102,7 @@
 
         .aboutImage {
           img {
-            object-fit: contain;
+            object-fit:cover;
             width: 100%;
             height: 100%;
           }
@@ -120,9 +120,10 @@
         }
         .skillCards {
           display: grid;
-          grid-template-columns: repeat(4, 25%); // repeat(3, 33%)
+          grid-template-columns: repeat(3,40%); // repeat(3, 33%)
           grid-column-gap: 1rem;
-          justify-content:center;
+          justify-content:space-evenly;
+          align-self:center;
 
           .skillCard {
             padding: 2rem;
@@ -130,7 +131,7 @@
             border-radius: 22px;
             display: flex;
             flex-direction: column;
-            align-items: center;
+            align-items:start;
 
             h2 {
               font-weight: 800;

@@ -3,7 +3,7 @@ import React from "react";
 
 import styles from "@/styles/Dev.module.scss";
 
-import { uxResearchProjects } from "../Shared/Data";
+import { graphicDesigns } from "../Shared/Data";
 import Image from "next/image";
 
 const UxCard = ({ uxProject }) => {
@@ -66,7 +66,7 @@ const Gfx = () => {
     <div className={styles.devProjectContainer} id="uiux">
       <h1 data-aos="fade-up">Graphic Designs</h1>
       <div className={styles.devProjectGrid}>
-        {uxResearchProjects.map((development) => {
+        {graphicDesigns.map((development) => {
           return <DevProjectCard key={development.id} development={development}  />;
         })}
       </div>

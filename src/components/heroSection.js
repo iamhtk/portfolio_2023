@@ -21,6 +21,7 @@ const HeroSection = () => {
             >
               I&#39;m a Human-Computer Interaction & UX Student at University of Michigan-Ann Arbor.
             </p>
+            <p></p>
             <p>
             I have experience doing user experience design & research, creating app design, and visual design.
             I am currently looking for an internship or job for the summer of 2023 to further build on my Product/UX design & research, interaction design, and product management skills.

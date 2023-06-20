@@ -26,7 +26,7 @@
           padding-left: 1px;
           font-size: 2rem;
           font-weight: 300;
-          color: #dfdfdf;
+          color: #fffcfc;
         }
         > h1 {
           width: 80%;
@@ -52,16 +52,18 @@
           }
         }
         .heroColor {
-          animation: background-pan 3s forwards infinite;
           font-weight: 800;
           color: transparent;
+          animation: background-pan-reverse 5s linear infinite;
           background: linear-gradient(
             120deg,
-            #9500ff,
-            #bb5cff,
             #ffffff,
-            #bb5cff,
-            #9500ff
+            #1a7fd8,
+            #53acfa,
+            #ffffff,
+            #ff00f7,
+            #de02d7,
+            #ffffff,
           );
           background-clip: text;
           -webkit-background-clip: text;
@@ -72,27 +74,30 @@
         .heroColor2 {
           font-weight: 800;
           color: transparent;
+          animation: background-pan-reverse 4s linear infinite;
           background: linear-gradient(
             120deg,
-            #9500ff,
-            #bb5cff,
             #ffffff,
-            #bb5cff,
-            #9500ff
+            #1a7fd8,
+            #53acfa,
+            #ffffff,
+            #ff00f7,
+            #de02d7,
+            #ffffff,
           );
           background-clip: text;
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
           background-size: 200%;
-          animation: background-pan-reverse 4s linear infinite;
+          
         }
       }
       .heroShortIntro {
         > p {
-          font-size: 2rem;
+          font-size: 1.7rem;
           padding-top: 0.5rem;
-          color: #dfdfdf;
-          width: 70%;
+          color: #ffffff;
+          width: 90%;
         }
       }
     }
@@ -103,7 +108,7 @@
       }
       .heroCtaButtonLink {
         > button {
-          background-color: #cc84ff;
+          background-color: #911ae5;
           border-radius: 10px;
           margin-top: 5vh;
           font-size: 14px;
@@ -142,7 +147,7 @@
         > p {
           font-size: 1rem;
           font-weight: 300;
-          color: #c4c4c4;
+          color: #ffffff;
         }
         > h1 {
           font-weight: 800;
@@ -169,42 +174,68 @@
         .heroColor {
           font-weight: 800;
           color: transparent;
+          animation: background-pan-reverse 5s linear infinite;
           background: linear-gradient(
             120deg,
-            #9500ff,
-            #bb5cff,
             #ffffff,
-            #bb5cff,
-            #9500ff
+            #1a7fd8,
+            #53acfa,
+            #ffffff,
+            #ff00f7,
+            #de02d7,
+            #ffffff,
           );
+          // animation: background-pan 2s linear infinite;
+          // background: linear-gradient(
+          //   120deg,
+          //   #9500ff,
+          //   #bb5cff,
+          //   #ffffff,
+          //   #bb5cff,
+          //   #9500ff
+          // );
           background-clip: text;
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
           background-size: 200%;
-          animation: background-pan 2s linear infinite;
+          
         }
+
+        
         .heroColor2 {
           font-weight: 800;
           color: transparent;
+          animation: background-pan-reverse 4s linear infinite;
           background: linear-gradient(
             120deg,
-            #9500ff,
-            #bb5cff,
             #ffffff,
-            #bb5cff,
-            #9500ff
+            #1a7fd8,
+            #53acfa,
+            #ffffff,
+            #ff00f7,
+            #de02d7,
+            #ffffff,
           );
+          // animation: background-pan-reverse 3s linear infinite;
+          // background: linear-gradient(
+          //   120deg,
+          //   #9500ff,
+          //   #bb5cff,
+          //   #ffffff,
+          //   #bb5cff,
+          //   #9500ff
+          // );
           background-clip: text;
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
-          background-size: 200%;
-          animation: background-pan-reverse 3s linear infinite;
+          background-size: 200%; 
         }
+        
         .heroShortIntro {
           > p {
             font-size: 0.8rem;
             padding-top: 0.5rem;
-            color: #dfdfdf;
+            color: #ffffff;
             text-align: center;
           }
         }
@@ -216,7 +247,7 @@
 
         .resume {
           text-decoration: none;
-          background-color: #cc84ff;
+          background-color: #911ae5;
           border-radius: 10px;
           margin-top: 1rem;
           font-size: 14px;
@@ -233,7 +264,7 @@
         }
         .heroCtaButtonLink {
           > button {
-            background-color: #cc84ff;
+            background-color: #911ae5;
             border-radius: 10px;
             margin-top: 5vh;
             font-size: 14px;
