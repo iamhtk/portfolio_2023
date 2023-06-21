@@ -1,43 +1,30 @@
 export const uxResearchProjects = [
-  {
-    id: 1,
-    title: "Bound International",
-    // projectName: "Bound International",
-    desc: "",
-    stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
-    tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
-    link: "https://www.behance.net/gallery/173611221/Needs-Assessment-Usability-Testing",
-    image: require("../../public/images/new_images/bound2.png"),
-  },
-  {
-    id: 2,
-    title: "NCID: Spark Publications",
-    // projectName: "NCID: Spark Publications",
-    desc:
-      "",
-    link: "https://www.behance.net/gallery/173617845/NCID-Spark-Publications-Contextual-Inquiry",
-    stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
-    tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
-    image: require("../../public/images/new_images/spark.png"),
-  }
+  // {
+  //   id: 1,
+  //   title: "Bound International",
+  //   // projectName: "Bound International",
+  //   desc: "",
+  //   stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
+  //   tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
+  //   link: "https://www.behance.net/gallery/173611221/Needs-Assessment-Usability-Testing",
+  //   image: require("../../public/images/new_images/bound2.png"),
+  // },
+  // {
+  //   id: 2,
+  //   title: "NCID: Spark Publications",
+  //   // projectName: "NCID: Spark Publications",
+  //   desc:
+  //     "",
+  //   link: "https://www.behance.net/gallery/173617845/NCID-Spark-Publications-Contextual-Inquiry",
+  //   stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
+  //   tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
+  //   image: require("../../public/images/new_images/spark.png"),
+  // }
 ];
 
 export const uiUxProjects = [
   {
     id: 1,
-    title: "Raseet Health",
-    desc: "Raseet is a platform that transforms local pharmacies into online e-commerce stores enabling them to offer comprehensive health and wellness solutions, expanding beyond medications. Retailers can generate interactive digital bills sent directly to their phones, eliminating the need for paper bills and reducing costs and passive income by providing trusted healthcare services such as doctor consultations, lab tests, supplements, and health insurance.",
-    stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
-    tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
-    link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
-    image: require("../../public/images/new_images/raseet.png"),
-    color: "#FAF4B7",
-
-    
-
-  },
-  {
-    id: 2,
     title: "ho•bo dB",
     desc: "Developed an app for homeless individuals in Ann Arbor, Michigan. It tracks their progress, aids organizations, and provides valuable data for identifying areas requiring urgent care. The app enables easy access to data, work, and continuous monitoring to ensure accessibility, privacy, and data protection.",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
@@ -48,14 +35,24 @@ export const uiUxProjects = [
     
   },
   {
-    id: 3,
-    title: "Queen of Spades",
-    desc: "Designed an food ordering app for a Mexican restaturant specializing in Tacos.",
+    id: 2,
+    title: "Raseet Health",
+    desc: "Raseet is a platform that transforms local pharmacies into online e-commerce stores enabling them to offer comprehensive health and wellness solutions, expanding beyond medications. Retailers can generate interactive digital bills sent directly to their phones, eliminating the need for paper bills and reducing costs and passive income by providing trusted healthcare services such as doctor consultations, lab tests, supplements, and health insurance.",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
     link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
-    image: require("../../public/images/uiuxProjects/queen_of_spades.png"),
-    color: "#CDF0EA",
+    image: require("../../public/images/new_images/raseet.png"),
+    color: "#FAF4B7",
+  },
+  {
+    id: 3,
+    title: "Bound International",
+    // projectName: "Bound International",
+    desc: "",
+    stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
+    tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
+    link: "https://www.behance.net/gallery/173611221/Needs-Assessment-Usability-Testing",
+    image: require("../../public/images/new_images/bound2.png"),  
   },
   {
     id: 4,
@@ -70,6 +67,31 @@ export const uiUxProjects = [
 
   {
     id: 5,
+    title: "Queen of Spades",
+    desc: "Designed an food ordering app for a Mexican restaturant specializing in Tacos.",
+    stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
+    tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
+    link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
+    image: require("../../public/images/uiuxProjects/queen_of_spades.png"),
+    color: "#CDF0EA",
+    
+  },
+
+  {
+    id: 6,
+    title: "NCID: Spark Publications",
+    // projectName: "NCID: Spark Publications",
+    desc:
+      "Contextual Inquiry on Spark Publications by National Center for Institutional Diversity (NCID).",
+    link: "https://www.behance.net/gallery/173617845/NCID-Spark-Publications-Contextual-Inquiry",
+    stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
+    tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
+    image: require("../../public/images/new_images/spark.png"),
+    
+  },
+
+  {
+    id: 7,
     title: "Merch",
     desc: "",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
@@ -79,9 +101,8 @@ export const uiUxProjects = [
     color: "#CCF3EE",
     
   },
-
   {
-    id: 6,
+    id: 8,
     title: "ClayClock",
     desc: "Designed a fully functionaling Clock app using Clay Design.",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
@@ -89,7 +110,8 @@ export const uiUxProjects = [
     link: "https://www.behance.net/gallery/173462201/Clay-Clock",
     image: require("../../public/images/new_images/cc.png"),
     color: "#CCF3EE",
-  },
+    
+  }
 ];
 
 export const graphicDesigns = [

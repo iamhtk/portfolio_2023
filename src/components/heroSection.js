@@ -8,7 +8,7 @@ const HeroSection = () => {
     <div className={styles.heroSection} id="hero-section">
       <div className={styles.heroContainer}>
         <div className={styles.heroIntro}>
-          <p data-aos="fade-down">Hi! my name is Hrithik, I love</p>
+          <p data-aos="fade-down">Hi!  I&#39;m Hrithik Sanyal. I love</p>
           <h1 data-aos="fade-down" data-aos-delay="200">
             building <span className={styles.heroColor}>products</span> and{" "}
             <span className={styles.heroColor2}>experiences</span>.
@@ -19,7 +19,7 @@ const HeroSection = () => {
               data-aos-delay="400"
               data-aos-anchor=".heroIntro"
             >
-              I&#39;m a Human-Computer Interaction & UX Student at University of Michigan-Ann Arbor.
+              I&#39;m a Human-Computer Interaction and UX Design & Research Student at School of Information, University of Michigan-Ann Arbor.
             </p>
             <p></p>
             <p>
@@ -36,7 +36,7 @@ const HeroSection = () => {
           data-aos-anchor=".heroShortIntro"
         >
           <Link to="dev-project" smooth={true} className={styles.heroCtaButtonLink}>
-            <button>Check out my works!</button>
+            <button>My Designs!</button>
           </Link>
           <a
             href="https://drive.google.com/file/d/1HUWFbSHpUsDPKxRulOgoVxI4YuHGsUgX/view?usp=sharing"
@@ -44,7 +44,7 @@ const HeroSection = () => {
             rel="noopener noreferrer"
             className={styles.resume}
           >
-            View my Resume
+            Resume
           </a>
         </div>
       </div>

@@ -64,7 +64,7 @@ const DevProjectCard = ({ development }) => {
 const Gfx = () => {
   return (
     <div className={styles.devProjectContainer} id="uiux">
-      <h1 data-aos="fade-up">Graphic Designs</h1>
+      <h1 data-aos="fade-up">Web Designs & Graphic Designs</h1>
       <div className={styles.devProjectGrid}>
         {graphicDesigns.map((development) => {
           return <DevProjectCard key={development.id} development={development}  />;

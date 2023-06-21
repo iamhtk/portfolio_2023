@@ -31,10 +31,9 @@ export default function Home() {
       <main>
         <HeroSection />
         <DevProjects />
-        <UXResearch />
+        {/* <UXResearch /> */}
         <Gfx />
         {/* <Gfx /> */}
-
         {/* <Blog /> */}
         <ContactSection />
       </main>
