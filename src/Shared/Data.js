@@ -70,18 +70,19 @@ export const uiUxProjects = [
 
   {
     id: 5,
-    title: "ClayClock",
+    title: "Merch",
     desc: "",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
     link: "https://www.behance.net/gallery/173462201/Clay-Clock",
     image: require("../../public/images/new_images/cc.png"),
     color: "#CCF3EE",
+    
   },
 
   {
     id: 6,
-    title: "Merch",
+    title: "ClayClock",
     desc: "",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
