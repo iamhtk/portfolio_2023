@@ -25,16 +25,6 @@ export const uxResearchProjects = [
 export const uiUxProjects = [
   {
     id: 1,
-    title: "Queen of Spades",
-    desc: "",
-    stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
-    tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
-    link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
-    image: require("../../public/images/uiuxProjects/queen_of_spades.png"),
-    color: "#CDF0EA",
-  },
-  {
-    id: 2,
     title: "Raseet Health",
     desc: " ",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
@@ -42,9 +32,10 @@ export const uiUxProjects = [
     link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
     image: require("../../public/images/new_images/raseet.png"),
     color: "#FAF4B7",
+
   },
   {
-    id: 3,
+    id: 2,
     title: "ho•bo dB",
     desc: "",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
@@ -52,6 +43,17 @@ export const uiUxProjects = [
     link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
     image: require("../../public/images/new_images/hobo.png"),
     color: "#FFE6E6",
+    
+  },
+  {
+    id: 3,
+    title: "Queen of Spades",
+    desc: "",
+    stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
+    tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
+    link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
+    image: require("../../public/images/uiuxProjects/queen_of_spades.png"),
+    color: "#CDF0EA",
   },
   {
     id: 4,
@@ -95,7 +97,7 @@ export const graphicDesigns = [
     desc: "Designed an application where users can securely store Passwords, Credit Cards, and Secure Notes.",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
-    link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
+    link: "https://hrithiksanyal.myportfolio.com/graphic-design-si-520",
     image: require("../../public/images/new_images/music.png"),
   },
   {
