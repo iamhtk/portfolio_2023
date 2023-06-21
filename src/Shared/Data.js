@@ -6,7 +6,7 @@ export const uxResearchProjects = [
     desc: "",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
-    link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
+    link: "https://www.behance.net/gallery/173611221/Needs-Assessment-Usability-Testing",
     image: require("../../public/images/new_images/bound2.png"),
   },
   {
@@ -15,7 +15,7 @@ export const uxResearchProjects = [
     // projectName: "NCID: Spark Publications",
     desc:
       "",
-    projectLink: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
+    link: "https://www.behance.net/gallery/173617845/NCID-Spark-Publications-Contextual-Inquiry",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
     image: require("../../public/images/new_images/spark.png"),
