@@ -26,18 +26,20 @@ export const uiUxProjects = [
   {
     id: 1,
     title: "Raseet Health",
-    desc: " ",
+    desc: "Raseet is a platform that transforms local pharmacies into online e-commerce stores enabling them to offer comprehensive health and wellness solutions, expanding beyond medications. Retailers can generate interactive digital bills sent directly to their phones, eliminating the need for paper bills and reducing costs and passive income by providing trusted healthcare services such as doctor consultations, lab tests, supplements, and health insurance.",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
     link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
     image: require("../../public/images/new_images/raseet.png"),
     color: "#FAF4B7",
 
+    
+
   },
   {
     id: 2,
     title: "ho•bo dB",
-    desc: "",
+    desc: "Developed an app for homeless individuals in Ann Arbor, Michigan. It tracks their progress, aids organizations, and provides valuable data for identifying areas requiring urgent care. The app enables easy access to data, work, and continuous monitoring to ensure accessibility, privacy, and data protection.",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
     link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
@@ -48,7 +50,7 @@ export const uiUxProjects = [
   {
     id: 3,
     title: "Queen of Spades",
-    desc: "",
+    desc: "Designed an food ordering app for a Mexican restaturant specializing in Tacos.",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
     link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
@@ -94,9 +96,9 @@ export const graphicDesigns = [
     id: 1,
     title: "SI 520: Graphic Designs",
     // projectName: "Bound International",
-    desc: "Designed an application where users can securely store Passwords, Credit Cards, and Secure Notes.",
-    stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
-    tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
+    desc: "Part of coursework SI 520. Designed various graphics, illustrations, and artworks",
+    stack: "UX Design, UI Design, ",
+    tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD, Adobe Acrobat",
     link: "https://hrithiksanyal.myportfolio.com/graphic-design-si-520",
     image: require("../../public/images/new_images/music.png"),
   },
@@ -105,9 +107,9 @@ export const graphicDesigns = [
     title: "SI 539: Web Designs",
     // projectName: "NCID: Spark Publications",
     desc:
-      "An app designed to bring the future at your fingertips by providing easy access to all things EV for you and creating a hassle-free relationship amongst the buyer and the seller.",
-    stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
-    tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
+      "A dedicated website on Electronic Dance Music (EDM)",
+    stack: "Web Design, UI Design",
+    tools: "HTML, CSS, JavaScript, Vanilla Tilt, Adobe Illustrator, Adobe Photoshop, Figma",
     link: "https://iamhtk.github.io/SI539_FinalProject/",
     image: require("../../public/images/new_images/edm.png"),
   }

@@ -64,7 +64,7 @@ const DevProjectCard = ({ development }) => {
 const UXResearch = () => {
   return (
     <div className={styles.devProjectContainer} id="uiux">
-      <h1 data-aos="fade-up">UX Researches</h1>
+      <h1 data-aos="fade-up">UX Case Studies</h1>
       <div className={styles.devProjectGrid}>
         {uxResearchProjects.map((development) => {
           return <DevProjectCard key={development.id} development={development}  />;

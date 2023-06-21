@@ -39,7 +39,7 @@ const DevProjectCard = ({ development }) => {
 const DevProjects = () => {
   return (
     <div className={styles.devProjectContainer} id="dev-project">
-      <h1 data-aos="fade-up">UI/UX Designs</h1>
+      <h1 data-aos="fade-up">UX Designs</h1>
       <div className={styles.devProjectGrid}>
         {uiUxProjects.map((development) => {
           return (
