@@ -60,7 +60,7 @@ export const uiUxProjects = [
   {
     id: 4,
     title: "homebrew",
-    desc: "",
+    desc: "Designed a food ordering app for delivering various kinds of drinks.",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
     link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
@@ -83,7 +83,7 @@ export const uiUxProjects = [
   {
     id: 6,
     title: "ClayClock",
-    desc: "",
+    desc: "Designed a fully functionaling Clock app using Clay Design.",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
     link: "https://www.behance.net/gallery/173462201/Clay-Clock",
