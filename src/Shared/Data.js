@@ -29,7 +29,7 @@ export const uiUxProjects = [
     desc: "Developed an app for homeless individuals in Ann Arbor, Michigan. It tracks their progress, aids organizations, and provides valuable data for identifying areas requiring urgent care. The app enables easy access to data, work, and continuous monitoring to ensure accessibility, privacy, and data protection.",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
-    link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
+    link: "https://www.behance.net/gallery/174085841/hobo-dB",
     image: require("../../public/images/new_images/hobo.png"),
     color: "#FFE6E6",
     
