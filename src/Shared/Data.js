@@ -40,7 +40,7 @@ export const uiUxProjects = [
     desc: "Raseet is a platform that transforms local pharmacies into online e-commerce stores enabling them to offer comprehensive health and wellness solutions, expanding beyond medications. Retailers can generate interactive digital bills sent directly to their phones, eliminating the need for paper bills and reducing costs and passive income by providing trusted healthcare services such as doctor consultations, lab tests, supplements, and health insurance.",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
-    link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
+    link: "https://www.behance.net/gallery/174160077/Raseet-Health",
     image: require("../../public/images/new_images/raseet.png"),
     color: "#FAF4B7",
   },
@@ -54,16 +54,16 @@ export const uiUxProjects = [
     link: "https://www.behance.net/gallery/173611221/Needs-Assessment-Usability-Testing",
     image: require("../../public/images/new_images/bound2.png"),  
   },
-  {
-    id: 4,
-    title: "homebrew",
-    desc: "Designed a food ordering app for delivering various kinds of drinks.",
-    stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
-    tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
-    link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
-    image: require("../../public/images/new_images/hbrew.png"),
-    color: "#CCF3EE",
-  },
+  // {
+  //   id: 4,
+  //   title: "homebrew",
+  //   desc: "Designed a food ordering app for delivering various kinds of drinks.",
+  //   stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
+  //   tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
+  //   link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
+  //   image: require("../../public/images/new_images/hbrew.png"),
+  //   color: "#CCF3EE",
+  // },
 
   {
     id: 5,
@@ -90,17 +90,17 @@ export const uiUxProjects = [
     
   },
 
-  {
-    id: 7,
-    title: "Merch",
-    desc: "",
-    stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
-    tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
-    link: "https://www.behance.net/gallery/173462201/Clay-Clock",
-    image: require("../../public/images/new_images/cc.png"),
-    color: "#CCF3EE",
+  // {
+  //   id: 7,
+  //   title: "Merch",
+  //   desc: "",
+  //   stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
+  //   tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
+  //   link: "https://www.behance.net/gallery/173462201/Clay-Clock",
+  //   image: require("../../public/images/new_images/cc.png"),
+  //   color: "#CCF3EE",
     
-  },
+  // },
   {
     id: 8,
     title: "ClayClock",

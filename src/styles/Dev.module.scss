@@ -33,9 +33,9 @@
     .devProjectCardDescription {
       padding-top: 0.2rem;
       > p {
-        font-size: 1rem;
-        color: #9f9f9f;
-        font-weight: 200;
+        font-size: 1.2rem;
+        color: #FFFFFF;
+        font-weight:lighter;
       }
     }
 
@@ -64,7 +64,7 @@
   }
 }
 
-@media screen and (max-width: 1281px) {
+@media screen and (max-width: 60em) {
   .devProjectCard {
     .devProjectCardContainer {
       padding: 1rem;
@@ -96,9 +96,9 @@
       .devProjectCardDescription {
         padding-top: 0.4rem;
         > p {
-          font-size: 1rem;
-          color: #9f9f9f;
-          font-weight: 200;
+          font-size: 1.2rem;
+          color: #FFFFFF;
+          font-weight: lighter;
         }
       }
 
@@ -134,7 +134,7 @@
   grid-row-gap: 2rem;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 60em) {
   .devProjectContainer {
     margin-top: 8rem;
     padding: 0 0rem;
