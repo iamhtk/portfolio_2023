@@ -37,7 +37,7 @@ export const uiUxProjects = [
   {
     id: 2,
     title: "Raseet Health",
-    desc: "Raseet is a platform that transforms local pharmacies into online e-commerce stores enabling them to offer comprehensive health and wellness solutions, expanding beyond medications. Retailers can generate interactive digital bills sent directly to their phones, eliminating the need for paper bills and reducing costs and passive income by providing trusted healthcare services such as doctor consultations, lab tests, supplements, and health insurance.",
+    desc: "Raseet Health is a platform that brings pharmacies to the fingertips of the customers. It is a one-stop-shop for their complete health and wellness needs. The app is designed to be intuitive by all age groups, and varying level of technically proficient users. Special care was taken to ensure these to target a wide range of audience.",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
     link: "https://www.behance.net/gallery/174160077/Raseet-Health",
