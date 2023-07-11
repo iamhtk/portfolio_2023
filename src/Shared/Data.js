@@ -48,7 +48,7 @@ export const uiUxProjects = [
     id: 3,
     title: "Bound International",
     // projectName: "Bound International",
-    desc: "",
+    desc: "Needs assessment & Usability",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
     link: "https://www.behance.net/gallery/173611221/Needs-Assessment-Usability-Testing",
