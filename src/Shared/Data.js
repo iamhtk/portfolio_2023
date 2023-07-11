@@ -47,23 +47,22 @@ export const uiUxProjects = [
   {
     id: 3,
     title: "Bound International",
-    // projectName: "Bound International",
-    desc: "",
-    stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
+    desc: "Needs assessment & Usability",
+    stack: "Needs assessment, Usability Testing, Heuristic Evaluation, Comparative Evaluation, User Surveys, and User Interviews",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
     link: "https://www.behance.net/gallery/173611221/Needs-Assessment-Usability-Testing",
     image: require("../../public/images/new_images/bound2.png"),  
   },
-  // {
-  //   id: 4,
-  //   title: "homebrew",
-  //   desc: "Designed a food ordering app for delivering various kinds of drinks.",
-  //   stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
-  //   tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
-  //   link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
-  //   image: require("../../public/images/new_images/hbrew.png"),
-  //   color: "#CCF3EE",
-  // },
+  {
+    id: 4,
+    title: "homebrew",
+    desc: "Designed a food ordering app for delivering various kinds of drinks.",
+    stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
+    tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
+    link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
+    image: require("../../public/images/new_images/hbrew.png"),
+    color: "#CCF3EE",
+  },
 
   {
     id: 5,
@@ -80,11 +79,9 @@ export const uiUxProjects = [
   {
     id: 6,
     title: "NCID: Spark Publications",
-    // projectName: "NCID: Spark Publications",
-    desc:
-      "Contextual Inquiry on Spark Publications by National Center for Institutional Diversity (NCID).",
+    desc:"Contextual Inquiry on Spark Publications by National Center for Institutional Diversity (NCID).",
     link: "https://www.behance.net/gallery/173617845/NCID-Spark-Publications-Contextual-Inquiry",
-    stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
+    stack: "Contextual Inquiry, Affinity Wall Construction, User Surveys, and User Interviews",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
     image: require("../../public/images/new_images/spark.png"),
     
@@ -118,7 +115,7 @@ export const graphicDesigns = [
   {
     id: 1,
     title: "SI 520: Graphic Designs",
-    // projectName: "Bound International",
+    // projectName: 
     desc: "Part of coursework SI 520. Designed various graphics, illustrations, and artworks",
     stack: "UX Design, UI Design, ",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD, Adobe Acrobat",
