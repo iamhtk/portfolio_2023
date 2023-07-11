@@ -79,7 +79,6 @@ export const uiUxProjects = [
   {
     id: 6,
     title: "NCID: Spark Publications",
-    // projectName: "NCID: Spark Publications",
     desc:"Contextual Inquiry on Spark Publications by National Center for Institutional Diversity (NCID).",
     link: "https://www.behance.net/gallery/173617845/NCID-Spark-Publications-Contextual-Inquiry",
     stack: "Contextual Inquiry, Affinity Wall Construction, User Surveys, and User Interviews",
@@ -116,7 +115,7 @@ export const graphicDesigns = [
   {
     id: 1,
     title: "SI 520: Graphic Designs",
-    // projectName: "Bound International",
+    // projectName: 
     desc: "Part of coursework SI 520. Designed various graphics, illustrations, and artworks",
     stack: "UX Design, UI Design, ",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD, Adobe Acrobat",
