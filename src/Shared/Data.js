@@ -54,16 +54,16 @@ export const uiUxProjects = [
     link: "https://www.behance.net/gallery/173611221/Needs-Assessment-Usability-Testing",
     image: require("../../public/images/new_images/bound2.png"),  
   },
-  // {
-  //   id: 4,
-  //   title: "homebrew",
-  //   desc: "Designed a food ordering app for delivering various kinds of drinks.",
-  //   stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
-  //   tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
-  //   link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
-  //   image: require("../../public/images/new_images/hbrew.png"),
-  //   color: "#CCF3EE",
-  // },
+  {
+    id: 4,
+    title: "homebrew",
+    desc: "Designed a food ordering app for delivering various kinds of drinks.",
+    stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
+    tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
+    link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
+    image: require("../../public/images/new_images/hbrew.png"),
+    color: "#CCF3EE",
+  },
 
   {
     id: 5,
