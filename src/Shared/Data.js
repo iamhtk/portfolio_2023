@@ -47,9 +47,8 @@ export const uiUxProjects = [
   {
     id: 3,
     title: "Bound International",
-    // projectName: "Bound International",
     desc: "Needs assessment & Usability",
-    stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
+    stack: "Needs assessment, Usability Testing, Heuristic Evaluation, Comparative Evaluation, User Surveys, and User Interviews",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
     link: "https://www.behance.net/gallery/173611221/Needs-Assessment-Usability-Testing",
     image: require("../../public/images/new_images/bound2.png"),  
@@ -81,10 +80,9 @@ export const uiUxProjects = [
     id: 6,
     title: "NCID: Spark Publications",
     // projectName: "NCID: Spark Publications",
-    desc:
-      "Contextual Inquiry on Spark Publications by National Center for Institutional Diversity (NCID).",
+    desc:"Contextual Inquiry on Spark Publications by National Center for Institutional Diversity (NCID).",
     link: "https://www.behance.net/gallery/173617845/NCID-Spark-Publications-Contextual-Inquiry",
-    stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
+    stack: "Contextual Inquiry, Affinity Wall Construction, User Surveys, and User Interviews",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
     image: require("../../public/images/new_images/spark.png"),
     
