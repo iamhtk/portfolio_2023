@@ -59,7 +59,7 @@ export const uiUxProjects = [
     desc: "Designed a food ordering app for delivering various kinds of drinks.",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
-    link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
+    link: "https://www.behance.net/gallery/175174809/homeBrew",
     image: require("../../public/images/new_images/hbrew.png"),
     color: "#CCF3EE",
   },
@@ -84,7 +84,6 @@ export const uiUxProjects = [
     stack: "Contextual Inquiry, Affinity Wall Construction, User Surveys, and User Interviews",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
     image: require("../../public/images/new_images/spark.png"),
-    
   },
 
   // {
