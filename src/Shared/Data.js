@@ -58,7 +58,7 @@ export const uiUxProjects = [
     title: "homebrew",
     desc: "Designed a beverage ordering app for delivering various kinds of alcohols.",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
-    tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
+    tools: "Figma, Adobe Illustrator, Adobe Photoshop",
     link: "https://www.behance.net/gallery/175174809/homeBrew",
     image: require("../../public/images/new_images/hbrew.png"),
     color: "#CCF3EE",
