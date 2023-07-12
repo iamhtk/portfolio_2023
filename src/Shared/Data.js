@@ -56,7 +56,7 @@ export const uiUxProjects = [
   {
     id: 4,
     title: "homebrew",
-    desc: "Designed a food ordering app for delivering various kinds of drinks.",
+    desc: "Designed a beverage ordering app for delivering various kinds of alcohols.",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
     link: "https://www.behance.net/gallery/175174809/homeBrew",
