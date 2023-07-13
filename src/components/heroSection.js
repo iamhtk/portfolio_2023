@@ -19,13 +19,20 @@ const HeroSection = () => {
               data-aos-delay="400"
               data-aos-anchor=".heroIntro"
             >
-              I&#39;m a Human-Computer Interaction and UX Design & Research Student at School of Information, University of Michigan-Ann Arbor.
-            </p>
+              I&#39;m a </p>
+              <p>Human-Computer Interaction, UX Design & Research Student, and Social Computing track at </p>
+              <p><h3>School of Information (UMSI), University of Michigan-Ann Arbor.</h3></p>
             <p></p>
-            <p>
-            I have experience doing user experience design & research, creating app design, and visual design.
-            I am currently looking for an internship or job for the summer of 2023 to further build on my Product/UX design & research, interaction design, and product management skills.
-            </p>
+            <p></p>
+            <p></p>
+            <p>I have experience doing user experience design & research, creating app design, and visual design.</p>
+            <p>Currently working as <h3>Information Architecture Intern at The Understanding Group (TUG)</h3></p> 
+            
+            <p></p>
+            <p></p>
+            <p></p>
+            <p>Looking for Internship/CO-OP Opportunities for Fall 2023 to further build on my Product/UX Design & Research, Interaction Design, and Product Management Skills.</p>
+
             
           </div>
         </div>

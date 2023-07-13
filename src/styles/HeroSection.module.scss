@@ -35,6 +35,20 @@
           line-height: 120px;
           padding: 1rem 0rem;
         }
+        > h3 {
+          width: 100%;
+          // font-weight: 800;
+          // font-size: 8rem;
+          // line-height: 120px;
+          // padding: 1rem 0rem;
+        }
+        > h4 {
+          width: 100%;
+          // font-weight: 800;
+          // font-size: 8rem;
+          // line-height: 120px;
+          // padding: 1rem 0rem;
+        }
         @keyframes background-pan {
           from {
             background-position: 0% 200% center;
@@ -95,9 +109,9 @@
       .heroShortIntro {
         > p {
           font-size: 1.7rem;
-          padding-top: 0.5rem;
+          padding-top: 0.7rem;
           color: #ffffff;
-          width: 90%;
+          width: 100%;
         }
       }
     }
@@ -111,12 +125,12 @@
           background-color: #911ae5;
           border-radius: 10px;
           margin-top: 5vh;
-          font-size: 14px;
+          font-size: 30px;
           padding: 16px 20px;
           font-weight: 500;
           cursor: pointer;
           border: none;
-          color: #121212;
+          color: #FFFFFF;
           transition: 0.3s;
 
           &:hover {
@@ -154,6 +168,20 @@
           font-size: 3rem;
           line-height: 50px;
           padding: 1rem 0rem;
+        }
+        > h3 {
+          width: 100%;
+          // font-weight: 800;
+          // font-size: 8rem;
+          // line-height: 120px;
+          // padding: 1rem 0rem;
+        }
+        > h4 {
+          width: 100%;
+          // font-weight: 800;
+          // font-size: 8rem;
+          // line-height: 120px;
+          // padding: 1rem 0rem;
         }
         @keyframes background-pan {
           from {
@@ -272,7 +300,7 @@
             font-weight: 500;
             cursor: pointer;
             border: none;
-            color: #121212;
+            color: #FFFFFF;
             transition: 0.3s;
 
             &:hover {

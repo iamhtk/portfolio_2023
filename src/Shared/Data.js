@@ -47,7 +47,7 @@ export const uiUxProjects = [
   {
     id: 3,
     title: "Bound International",
-    desc: "Needs assessment & Usability Testing of Bound International",
+    desc: "Evaluated Needs assessment & Usability Testing of Bound International and used various methods such as user survey & interviews, comparative analysis, heuristic evaluation, usability tests, and assessment of systems to determine user experience of the product and how well it meets the needs of its users. Also identified areas where the product succeeded, and where it could get better for users.",
     stack: "Needs assessment, Usability Testing, Heuristic Evaluation, Comparative Evaluation, User Surveys, and User Interviews",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma",
     link: "https://www.behance.net/gallery/173611221/Needs-Assessment-Usability-Testing",
