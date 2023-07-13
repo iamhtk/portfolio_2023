@@ -95,7 +95,7 @@
           flex-direction: column;
           p {
             padding-bottom: 2rem;
-            font-size: 1.1rem;
+            font-size: 1.5rem;
             width: 70%;
           }
         }
@@ -128,6 +128,14 @@
           .skillCard {
             padding: 2rem;
             background-color: #cf92fb;
+          //   background: radial-gradient(
+          //   120deg,
+          //   #1a7fd8,
+          //   #53acfa,
+          //   #ffffff,
+          //   #ff00f7,
+          //   #de02d7,
+          // );
             border-radius: 22px;
             display: flex;
             flex-direction: column;
@@ -140,7 +148,7 @@
               color: #ffffff;
             }
             p {
-              font-size: 1rem;
+              font-size: 1.2rem;
               font-weight: 400;
               padding-top: 0.4rem;
             }

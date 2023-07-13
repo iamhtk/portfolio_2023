@@ -55,17 +55,7 @@ export const uiUxProjects = [
   },
   {
     id: 4,
-    title: "homebrew",
-    desc: "Designed a food ordering app for delivering various kinds of drinks.",
-    stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
-    tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
-    link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
-    image: require("../../public/images/new_images/hbrew.png"),
-    color: "#CCF3EE",
-  },
 
-  {
-    id: 5,
     title: "Queen of Spades",
     desc: "Designed an food ordering app for a Mexican restaturant specializing in Tacos.",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
@@ -73,22 +63,22 @@ export const uiUxProjects = [
     link: "https://www.behance.net/gallery/173323931/Queen-of-Spades",
     image: require("../../public/images/uiuxProjects/queen_of_spades.png"),
     color: "#CDF0EA",
-    
+
   },
 
   {
-    id: 6,
+    id: 5,
     title: "NCID: Spark Publications",
     desc:"Contextual Inquiry on Spark Publications by National Center for Institutional Diversity (NCID).",
     link: "https://www.behance.net/gallery/173617845/NCID-Spark-Publications-Contextual-Inquiry",
     stack: "Contextual Inquiry, Affinity Wall Construction, User Surveys, and User Interviews",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
     image: require("../../public/images/new_images/spark.png"),
-    
   },
 
   // {
-  //   id: 7,
+  //   id: 6,
+
   //   title: "Merch",
   //   desc: "",
   //   stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
@@ -96,9 +86,21 @@ export const uiUxProjects = [
   //   link: "https://www.behance.net/gallery/173462201/Clay-Clock",
   //   image: require("../../public/images/new_images/cc.png"),
   //   color: "#CCF3EE",
-    
   // },
+
   {
+  id: 7,
+  title: "homebrew",
+  desc: "Designed a beverage ordering app for delivering various kinds of alcohols.",
+  stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
+  tools: "Figma, Adobe Illustrator, Adobe Photoshop",
+  link: "https://www.behance.net/gallery/175174809/homeBrew",
+  image: require("../../public/images/new_images/hbrew.png"),
+  color: "#CCF3EE",
+  },
+
+  {
+
     id: 8,
     title: "ClayClock",
     desc: "Designed a fully functionaling Clock app using Clay Design.",
