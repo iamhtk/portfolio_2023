@@ -67,13 +67,13 @@ export const uiUxProjects = [
   },
 
   {
-    id: 5,
-    title: "NCID: Spark Publications",
-    desc:"Contextual Inquiry on Spark Publications by National Center for Institutional Diversity (NCID).",
-    link: "https://www.behance.net/gallery/173617845/NCID-Spark-Publications-Contextual-Inquiry",
-    stack: "Contextual Inquiry, Affinity Wall Construction, User Surveys, and User Interviews",
-    tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
-    image: require("../../public/images/new_images/spark.png"),
+  id: 5,
+  title: "NCID: Spark Publications",
+  desc:"Contextual Inquiry on Spark Publications by National Center for Institutional Diversity (NCID).",
+  link: "https://www.behance.net/gallery/173617845/NCID-Spark-Publications-Contextual-Inquiry",
+  stack: "Contextual Inquiry, Affinity Wall Construction, User Surveys, and User Interviews",
+  tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
+  image: require("../../public/images/new_images/spark.png"),
   },
 
   // {
@@ -100,15 +100,14 @@ export const uiUxProjects = [
   },
 
   {
-
-    id: 8,
-    title: "ClayClock",
-    desc: "Designed a fully functionaling Clock app using Clay Design.",
-    stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
-    tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
-    link: "https://www.behance.net/gallery/173462201/Clay-Clock",
-    image: require("../../public/images/new_images/cc.png"),
-    color: "#CCF3EE",
+  id: 8,
+  title: "ClayClock",
+  desc: "Designed a fully functionaling Clock app using Clay Design.",
+  stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design",
+  tools: "Adobe Illustrator, Adobe Photoshop, Figma, Adobe XD",
+  link: "https://www.behance.net/gallery/173462201/Clay-Clock",
+  image: require("../../public/images/new_images/cc.png"),
+  color: "#CCF3EE",
     
   }
 ];
