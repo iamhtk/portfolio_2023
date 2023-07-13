@@ -18,8 +18,7 @@ const HeroSection = () => {
               data-aos="fade-down"
               data-aos-delay="400"
               data-aos-anchor=".heroIntro"
-            >
-              I&#39;m a </p>
+            >I&#39;m a </p>
               <p>Human-Computer Interaction, UX Design & Research Student, and Social Computing track at </p>
               <p><h3>School of Information (UMSI), University of Michigan-Ann Arbor.</h3></p>
             <p></p>
@@ -32,8 +31,6 @@ const HeroSection = () => {
             <p></p>
             <p></p>
             <p>Looking for Internship/CO-OP Opportunities for Fall 2023 to further build on my Product/UX Design & Research, Interaction Design, and Product Management Skills.</p>
-
-            
           </div>
         </div>
         <div

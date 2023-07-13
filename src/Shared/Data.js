@@ -25,7 +25,7 @@ export const uxResearchProjects = [
 export const uiUxProjects = [
   {
     id: 1,
-    title: "ho•bo",
+    title: "ho•bo dB",
     desc: "Designed an app for homeless individuals in Ann Arbor, Michigan that tracks progress, aids organizations, and gathers valuable data to identify urgent care areas. The app ensures easy access to data, work, and continuous monitoring while prioritizing accessibility, privacy, and data protection.",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design, Comparative Analysis, Empathy Maps, User Surveys, and User Interviews",
     tools: "Figma, Adobe XD, Adobe Illustrator, Adobe Photoshop, ProtoPie",
@@ -47,7 +47,7 @@ export const uiUxProjects = [
   {
     id: 3,
     title: "Bound International",
-    desc: "Evaluated Needs assessment & Usability Testing of Bound International and used various methods such as user survey & interviews, comparative analysis, heuristic evaluation, usability tests, and assessment of systems to determine user experience of the product and how well it meets the needs of its users. Also identified areas where the product succeeded, and where it could get better for users.",
+    desc: "Evaluated Needs assessment & Usability Testing of Bound International and used various methods such as user survey & interviews, comparative analysis, heuristic evaluation, usability tests to determine user experience of the product and how well it meets the needs of its users.",
     stack: "Needs assessment, Usability Testing, Heuristic Evaluation, Comparative Evaluation, User Surveys, and User Interviews",
     tools: "Adobe Illustrator, Adobe Photoshop, Figma",
     link: "https://www.behance.net/gallery/173611221/Needs-Assessment-Usability-Testing",
