@@ -25,7 +25,7 @@ export const uxResearchProjects = [
 export const uiUxProjects = [
   {
     id: 1,
-    title: "ho•bo dB",
+    title: "ho•bo",
     desc: "Designed an app for homeless individuals in Ann Arbor, Michigan that tracks progress, aids organizations, and gathers valuable data to identify urgent care areas. The app ensures easy access to data, work, and continuous monitoring while prioritizing accessibility, privacy, and data protection.",
     stack: "UX Design, UI Design, Prototyping, Wireframing, Product Design, Comparative Analysis, Empathy Maps, User Surveys, and User Interviews",
     tools: "Figma, Adobe XD, Adobe Illustrator, Adobe Photoshop, ProtoPie",
