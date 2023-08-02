@@ -43,7 +43,7 @@ const HeroSection = () => {
             <button>My Designs!</button>
           </Link>
           <a
-            href="https://drive.google.com/file/d/1S2609Ji0fwa92YlS93mghk1ipS_NzpKK/view?usp=sharing"
+            href="https://drive.google.com/file/d/13UKZPhcuo1Cx4jESNyO2J45vpmY4IOsa/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className={styles.resume}
